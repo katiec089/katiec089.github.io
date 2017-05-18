@@ -1,0 +1,7 @@
+---
+layout: default
+title:  "idek"
+date:   2017-05-18 04:51:34 -0400
+categories: jekyll update
+---
+weeee!!!
