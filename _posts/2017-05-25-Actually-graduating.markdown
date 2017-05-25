@@ -26,6 +26,6 @@ I've been on my own now officially for a little over two months. I'm getting not
 
 <br> 
 
-I know the young adults of this era are known for their freedom and impulsiveness. That's a generalization. But I just always believed in doing what was expected of me and never deviating. I never considered gap years. I never considered spending money that I don't have in order to travel for my own enrichment. I never even became a crazy fangirl over anything like Justin Bieber. I was a quiet, meek child who did what she was told and never deviated. 
+I know the young adults of this era are known for their freedom and impulsiveness. That's a generalization. But I just always believed in doing what was expected of me and never deviating. I never considered gap years. I never considered spending money that I don't have in order to travel for my own enrichment. I never even became a crazy fangirl over anything like Justin Bieber. I was a quiet, meek child who did what she was told. 
 
 Now that I'm not a student anymore, let's take that first step and try to deviate a little, yeah? ;)
