@@ -22,7 +22,7 @@ I've been on my own now officially for a little over two months. I'm getting not
 
 <br> 
 
-<center><img src="http://media-cache-ak0.pinimg.com/1200x/15/a5/97/15a597fff7d956e39a92500147d83948.jpg"></center>
+<center><img src="http://media-cache-ak0.pinimg.com/1200x/15/a5/97/15a597fff7d956e39a92500147d83948.jpg" width="50%"></center>
 
 <br> 
 
