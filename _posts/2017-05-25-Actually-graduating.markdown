@@ -3,7 +3,7 @@ layout: default
 title:  "Actually graduating"
 date:   2017-05-25 02:10:34 -0400
 category: School
-tags: [school, personal, family, DIY]
+tags: [school, personal, family]
 ---
 
 <h3>Actually graduating</h3>
