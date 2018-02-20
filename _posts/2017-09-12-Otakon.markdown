@@ -3,7 +3,7 @@ layout: default
 title:  "Otakon 2017"
 date:   2017-09-12 00:00:00 -0330
 category: Cosplay
-tags: [DIY, vacation, cosplay]
+tags: [DIY, vacation, cosplay, convention]
 ---
 
 <h3>Otakon 2017</h3>
